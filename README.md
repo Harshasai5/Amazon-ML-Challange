@@ -36,9 +36,6 @@ The prepared dataset can later be used for:
   - OS / PIL / Matplotlib
 
 ---
-
----
-
 ## 🔍 Current Implementation
 ✔ Dataset loading from CSV  
 ✔ Image URL extraction  
